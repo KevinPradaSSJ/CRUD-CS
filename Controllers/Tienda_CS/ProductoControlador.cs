@@ -124,5 +124,79 @@ namespace Controllers.Tienda_CS
                 return false;
             }
         }
+
+         public List<Producto> LeerProductos()
+        {
+            List<Producto> listaProductos = new List<Producto>();
+
+            try
+            {
+                string query = "SELECT id_producto, nombre, precio, tipo_id, stock FROM productos";
+
+                using (var connection = DatabaseConnection.GetConnection())
+                {
+                    using (var command = new MySql.Data.MySqlClient.MySqlCommand(query, connection))
+                    {
+                        using (var reader = command.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                Producto producto = new Producto
+                                {
+                                    IdProducto = reader.GetInt32("id_producto"),
+                                    Nombre = reader.GetString("nombre"),
+                                    Precio = reader.GetDecimal("precio"),
+                                    TipoId = reader.GetInt32("tipo_id"),
+                                    Stock = reader.GetInt32("stock")
+                                };
+
+                                listaProductos.Add(producto);
+                            }
+                        }
+                    }
+                }
+
+                Console.WriteLine(" Productos cargados correctamente");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($" Error al leer los productos: {ex.Message}");
+            }
+
+            return listaProductos;
+        }
+
+
+        public Producto ObtenerProductoPorId(int id)
+        {
+            Producto producto = null;
+            string connectionString = ConfigurationManager.ConnectionStrings["MiConexionBD"].ConnectionString;
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                string query = "SELECT Id, Nombre, Precio, Stock FROM Productos WHERE Id = @Id";
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@Id", id);
+
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    producto = new Producto
+                    {
+                        Id = Convert.ToInt32(reader["Id"]),
+                        Nombre = reader["Nombre"].ToString(),
+                        Precio = Convert.ToDecimal(reader["Precio"]),
+                        Stock = Convert.ToInt32(reader["Stock"])
+                    };
+                }
+
+                reader.Close();
+            }
+
+            return producto;
+        }
+
     }
 }
