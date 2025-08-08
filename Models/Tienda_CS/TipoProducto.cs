@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace Models.Tienda_CS
 {
     // Esta clase representa un tipo de producto en la tienda
-    internal class TipoProducto
+    public class TipoProducto
     {
         //CLASE PARA EL MODELO DE TIPO PRODUCTO
 

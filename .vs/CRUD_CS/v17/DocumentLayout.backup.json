@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{198C3ACC-C18B-4DC7-AC4F-BE254E444FF4}|Models\\Models.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\models\\tienda_cs\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{198C3ACC-C18B-4DC7-AC4F-BE254E444FF4}|Models\\Models.csproj|solutionrelative:models\\tienda_cs\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADE1A7A0-2463-4982-B9B8-787BF8E04C1E}|Views\\Views.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\views\\tienda_cs\\productovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADE1A7A0-2463-4982-B9B8-787BF8E04C1E}|Views\\Views.csproj|solutionrelative:views\\tienda_cs\\productovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{198C3ACC-C18B-4DC7-AC4F-BE254E444FF4}|Models\\Models.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\models\\tienda_cs\\tipoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198C3ACC-C18B-4DC7-AC4F-BE254E444FF4}|Models\\Models.csproj|solutionrelative:models\\tienda_cs\\tipoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FDBFFA-3E79-4CE0-A6D0-086E8C05C58C}|Controllers\\Controllers.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\controllers\\tienda_cs\\tipoproductocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FDBFFA-3E79-4CE0-A6D0-086E8C05C58C}|Controllers\\Controllers.csproj|solutionrelative:controllers\\tienda_cs\\tipoproductocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADE1A7A0-2463-4982-B9B8-787BF8E04C1E}|Views\\Views.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\views\\views.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADE1A7A0-2463-4982-B9B8-787BF8E04C1E}|Views\\Views.csproj|solutionrelative:views\\views.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C3ACC-C18B-4DC7-AC4F-BE254E444FF4}|Models\\Models.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\models\\tienda_cs\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C3ACC-C18B-4DC7-AC4F-BE254E444FF4}|Models\\Models.csproj|solutionrelative:models\\tienda_cs\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9FDBFFA-3E79-4CE0-A6D0-086E8C05C58C}|Controllers\\Controllers.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\controllers\\tienda_cs\\productocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9FDBFFA-3E79-4CE0-A6D0-086E8C05C58C}|Controllers\\Controllers.csproj|solutionrelative:controllers\\tienda_cs\\productocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADE1A7A0-2463-4982-B9B8-787BF8E04C1E}|Views\\Views.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\views\\views.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ADE1A7A0-2463-4982-B9B8-787BF8E04C1E}|Views\\Views.csproj|solutionrelative:views\\views.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{ADE1A7A0-2463-4982-B9B8-787BF8E04C1E}|Views\\Views.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\views\\tienda_cs\\productovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE1A7A0-2463-4982-B9B8-787BF8E04C1E}|Views\\Views.csproj|solutionrelative:views\\tienda_cs\\productovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDBFFA-3E79-4CE0-A6D0-086E8C05C58C}|Controllers\\Controllers.csproj|c:\\users\\kevin prada\\source\\repos\\crud_cs\\controllers\\tienda_cs\\tipoproductocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDBFFA-3E79-4CE0-A6D0-086E8C05C58C}|Controllers\\Controllers.csproj|solutionrelative:controllers\\tienda_cs\\tipoproductocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TipoProducto.cs",
-              "DocumentMoniker": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Tienda_CS\\TipoProducto.cs",
-              "RelativeDocumentMoniker": "Models\\Tienda_CS\\TipoProducto.cs",
-              "ToolTip": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Tienda_CS\\TipoProducto.cs",
-              "RelativeToolTip": "Models\\Tienda_CS\\TipoProducto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T14:19:05.65Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "TipoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Tienda_CS\\TipoProducto.cs",
+              "RelativeDocumentMoniker": "Models\\Tienda_CS\\TipoProducto.cs",
+              "ToolTip": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Tienda_CS\\TipoProducto.cs",
+              "RelativeToolTip": "Models\\Tienda_CS\\TipoProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:19:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Views.csproj",
               "DocumentMoniker": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Views\\Views.csproj",
               "RelativeDocumentMoniker": "Views\\Views.csproj",
@@ -63,11 +63,12 @@
               "RelativeToolTip": "Views\\Views.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-08T12:58:02.422Z"
+              "WhenOpened": "2025-08-08T12:58:02.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TipoProductoControlador.cs",
               "DocumentMoniker": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Controllers\\Tienda_CS\\TipoProductoControlador.cs",
               "RelativeDocumentMoniker": "Controllers\\Tienda_CS\\TipoProductoControlador.cs",
@@ -75,25 +76,24 @@
               "RelativeToolTip": "Controllers\\Tienda_CS\\TipoProductoControlador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T12:55:16.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T12:55:16.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Tienda_CS\\Producto.cs",
               "RelativeDocumentMoniker": "Models\\Tienda_CS\\Producto.cs",
               "ToolTip": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Tienda_CS\\Producto.cs",
               "RelativeToolTip": "Models\\Tienda_CS\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T12:44:20.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductoVista.cs",
               "DocumentMoniker": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Views\\Tienda_CS\\ProductoVista.cs",
               "RelativeDocumentMoniker": "Views\\Tienda_CS\\ProductoVista.cs",
@@ -101,12 +101,11 @@
               "RelativeToolTip": "Views\\Tienda_CS\\ProductoVista.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T12:58:26.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T12:58:26.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProductoControlador.cs",
               "DocumentMoniker": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Controllers\\Tienda_CS\\ProductoControlador.cs",
               "RelativeDocumentMoniker": "Controllers\\Tienda_CS\\ProductoControlador.cs",
@@ -114,7 +113,8 @@
               "RelativeToolTip": "Controllers\\Tienda_CS\\ProductoControlador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T12:54:56.769Z"
+              "WhenOpened": "2025-08-08T12:54:56.769Z",
+              "EditorCaption": ""
             }
           ]
         }
