@@ -89,15 +89,40 @@ namespace Controllers.Tienda_CS
                 Console.WriteLine($" Error al actualizar el producto: {ex.Message}");
                 return false;
             }
-
-        //CLASE PARA EL CONTROLADOR DE PRODUCTO
+        }
 
         public bool EliminarProducto(int id)
         {
-            // Lógica para eliminar un producto por su ID
-            string query = $"DELETE FROM productos WHERE id_producto = {id}";
-            int result = DatabaseConnection.ExecuteNonQuery(query);
-            return result > 0; // Retorna true si se eliminó al menos un producto
+            try
+            {
+                string query = "DELETE FROM productos WHERE id_producto = @id";
+
+                using (var connection = DatabaseConnection.GetConnection())
+                {
+                    using (var command = new MySql.Data.MySqlClient.MySqlCommand(query, connection))
+                    {
+                        command.Parameters.AddWithValue("@id", id);
+
+                        int filasAfectadas = command.ExecuteNonQuery();
+                        
+                        if (filasAfectadas > 0)
+                        {
+                            Console.WriteLine(" Producto eliminado exitosamente");
+                            return true;
+                        }
+                        else
+                        {
+                            Console.WriteLine(" No se pudo eliminar el producto");
+                            return false;
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($" Error al eliminar el producto: {ex.Message}");
+                return false;
+            }
         }
     }
 }

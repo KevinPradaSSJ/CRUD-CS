@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Controllers",
+    "\\Controllers\\Tienda_CS"
   ],
-  "SelectedNode": "\\tienda_cs.sql",
+  "SelectedNode": "\\Controllers\\Tienda_CS\\TipoProductoControlador.cs",
   "PreviewInSolutionExplorer": false
 }
