@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Controllers\\Controllers.csproj": {}
+    "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Controllers\\Controllers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Controllers\\Controllers.csproj": {
+    "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Controllers\\Controllers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Controllers\\Controllers.csproj",
+        "projectUniqueName": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Controllers\\Controllers.csproj",
         "projectName": "Controllers",
-        "projectPath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Controllers\\Controllers.csproj",
+        "projectPath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Controllers\\Controllers.csproj",
         "packagesPath": "C:\\Users\\Kevin Prada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Controllers\\obj\\",
+        "outputPath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Controllers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZ/5hVr+CiE=",
+  "dgSpecHash": "Q5rLc+ywWnA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Models\\Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kevin Prada\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Kevin Prada\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

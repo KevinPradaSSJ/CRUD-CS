@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Models.csproj": {}
+    "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Models.csproj": {
+    "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Kevin Prada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Models\\obj\\",
+        "outputPath": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD-CS\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
