@@ -120,7 +120,11 @@
               "RelativeDocumentMoniker": "Controllers\\Tienda_CS\\ProductoControlador.cs",
               "ToolTip": "C:\\Users\\Kevin Prada\\source\\repos\\CRUD_CS\\Controllers\\Tienda_CS\\ProductoControlador.cs",
               "RelativeToolTip": "Controllers\\Tienda_CS\\ProductoControlador.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwA0AAAAIAAAAAAAAAA==",
+>>>>>>> 4f64064336ea194902d225e02df5805a1f67c937
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T12:54:56.769Z",
               "EditorCaption": ""
