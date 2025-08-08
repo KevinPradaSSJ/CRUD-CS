@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+158cef3235306568e4b029fdfbc2697c1ba065ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f14775ed9d5d18e843072238c6bc9a9a3452a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendaCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
